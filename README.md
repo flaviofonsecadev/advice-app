@@ -1,1 +1,1 @@
-# adivice-app
+# advice-app
