@@ -23,3 +23,5 @@ Este é um projeto desenvolvido para estudar o fluxo de trabalho básico do Reac
 - 
 
 ---
+![Captura de Tela (7)](https://user-images.githubusercontent.com/77510058/150661566-a991ab20-cacb-491f-b7bd-2513d61ef6e2.png)
+
